@@ -2,7 +2,7 @@
 Apache Spark standalone script with output CSV file.
 Analyze target logs, and counts by url each days.
 
-## Execution
+## Usage
 
 ```
 $ cd ${THIS_PROJECT_PATH}
