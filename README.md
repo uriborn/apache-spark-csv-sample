@@ -6,6 +6,7 @@ Analyze target logs, and counts by url each days.
 
 ```
 $ cd ${THIS_PROJECT_PATH}
+$ activator package
 $ ./bin/spark_csv.sh [output_csv_file_path] [target_urls(Comma separated)]
 ```
 
